@@ -1,0 +1,10 @@
+<html>
+ <body>
+  <div>
+   <ul>
+    <li>apples</li>
+    <li>bananas</li>
+   </ul>
+  </div>
+ </body>
+</html>
